@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharingFunctions", "ImageSharingFunctions.csproj", "{26E4B76A-C82A-40CD-973E-694B875C4173}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6ED117A8-2510-4E45-B2B0-BC0923E15A2F} = {6ED117A8-2510-4E45-B2B0-BC0923E15A2F}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageSharingModels", "..\..\ImageSharingModels\ImageSharingModels\ImageSharingModels.csproj", "{6ED117A8-2510-4E45-B2B0-BC0923E15A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E4B76A-C82A-40CD-973E-694B875C4173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E4B76A-C82A-40CD-973E-694B875C4173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E4B76A-C82A-40CD-973E-694B875C4173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E4B76A-C82A-40CD-973E-694B875C4173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED117A8-2510-4E45-B2B0-BC0923E15A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED117A8-2510-4E45-B2B0-BC0923E15A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED117A8-2510-4E45-B2B0-BC0923E15A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED117A8-2510-4E45-B2B0-BC0923E15A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E48EF11-6ED8-4205-84AC-62E3DED266FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZTzqlr5eIgIq+UiZEw0no/EfxqyP59OFhEqGcNyewZUhQQ7EO2JC6h3cmKrm+OlgHmPfsUlSFrPXztZVr/YQQ==",
+  "success": true,
+  "projectFilePath": "/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Parthkumar_Darji/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/ImageSharingModels.csproj",
+  "expectedPackageFiles": [
+    "/Users/darjiparth/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

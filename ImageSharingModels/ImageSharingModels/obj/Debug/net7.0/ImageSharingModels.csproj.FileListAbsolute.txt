@@ -1,0 +1,42 @@
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.deps.json
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.dll
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.pdb
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.AssemblyReference.cache
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfoInputs.cache
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfo.cs
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.dll
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/refint/ImageSharingModels.dll
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.pdb
+//Mac/Home/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ref/ImageSharingModels.dll
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.deps.json
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.dll
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.pdb
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.deps.json
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.dll
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.pdb
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.AssemblyReference.cache
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfoInputs.cache
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfo.cs
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.CoreCompileInputs.cache
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.dll
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/refint/ImageSharingModels.dll
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.pdb
+/Users/dduggan/Documents/Teach/CS526/Projects/vs2022-net7_0/ImageSharingWithServerless/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ref/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.deps.json
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/bin/Debug/net7.0/ImageSharingModels.pdb
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.AssemblyReference.cache
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfoInputs.cache
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.AssemblyInfo.cs
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.csproj.CoreCompileInputs.cache
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/refint/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ImageSharingModels.pdb
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingModels/ImageSharingModels/obj/Debug/net7.0/ref/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.deps.json
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.dll
+/Users/darjiparth/Desktop/Study/Sem 3/CS526/Labs/Lab 4/Assignment-Code/ImageSharingFunctions/ImageSharingFunctions/bin/output/ImageSharingModels.pdb
